@@ -1,0 +1,14 @@
+[project]
+name = "image-generator-sachit-281206"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.13.0",
+    "diffusers>=0.37.1",
+    "matplotlib>=3.10.9",
+    "safetensors>=0.7.0",
+    "torch>=2.12.0",
+    "transformers>=5.9.0",
+]
